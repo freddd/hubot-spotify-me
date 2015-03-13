@@ -1,0 +1,34 @@
+{
+  name": "hubot-spotify-me",
+  "description": "A Spotify song searcher/recommender for Hubot",
+  "version": "1.0.0",
+  "author": "Fredrik Jönsson <fjnsson@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/freddd/hubot-spotify-me.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/freddd/hubot-spotify-me/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.9"
+  },
+
+  "devDependencies": {
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
