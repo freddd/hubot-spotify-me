@@ -43,7 +43,7 @@ callback = (query, response, msg) ->
           msg.send response.tracks.items[0].external_urls.spotify
           return
         else 
-          msg.send "Even I can't find that crappy song called [" + query + "]! I guess that's for the best."
+          msg.send "Even I can't find that crappy song called \"" + query + "\"! I guess that's for the best."
           return
 
 spotify = (robot, msg, query, type, cb) ->
