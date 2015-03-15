@@ -1,5 +1,5 @@
 {
-  name": "hubot-spotify-me",
+  "name": "hubot-spotify-me",
   "description": "A Spotify song searcher/recommender for Hubot",
   "version": "1.0.0",
   "author": "Fredrik Jönsson <fjnsson@gmail.com>",
