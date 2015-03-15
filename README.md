@@ -4,6 +4,8 @@ A hubot script that interacts with the Spotify Web API, perfect to use during fr
 
 See [`src/spotify-me.coffee`](src/spotify-me.coffee) for full documentation.
 
+Published at [`npmjs`](https://www.npmjs.com/package/hubot-spotify-me)
+
 ## Installation
 
 In hubot project repo, run:
