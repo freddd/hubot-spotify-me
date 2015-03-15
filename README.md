@@ -20,6 +20,7 @@ Then add **hubot-spotify-me** to your `external-scripts.json`:
 
 ## Sample Interaction
 Using ```hubot spotify me <something>``` will result in a search for a track called <something>
+
 Using ```hubot spotify me roulette``` will result in a search for a track using a random word collected from randomword.setgetgo.com
 
 ```
